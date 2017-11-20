@@ -19,11 +19,9 @@ The project is based on a assignment of 《Introduction to Game Development》 o
 
 ## Screenshots
 
-![start](start.jpg)
+![start](ss1.jpg)
 
-![level](level.jpg)
+![level](ss2.jpg)
 
-![lv1](level1.jpg)
-
-![lv5](level5.jpg)
+![game over](go.jpg)
 
